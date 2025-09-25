@@ -1,0 +1,51 @@
+*{
+  background-color: aquamarine;
+  margin: 0;
+}
+
+.tarjeta{
+  background-color: blueviolet;
+ 
+  border: black solid 3px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  margin: 90px;
+}
+
+.divImagen{
+  background-color: blueviolet;
+  width: 40vw;
+  background: linear-gradient(140deg, white 10%, blueviolet  50%);
+  text-align: center;
+}
+
+.imagenPepe{
+  border-radius: 100%;
+  height: 50vh;
+  width: 50vh;
+ 
+}
+
+.divTexto{
+  background-color: blueviolet;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  width: 40vw;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.texto{
+  color: black;
+  margin: 0;
+  padding: 0;
+  background-color: blueviolet;
+  display: flex;
+  margin-left: 10vw;
+}
+
+h1.texto{
+  margin-top: 5vh;
+  margin-bottom: 5vh;
+}
