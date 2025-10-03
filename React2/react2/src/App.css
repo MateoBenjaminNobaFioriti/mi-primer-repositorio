@@ -1,0 +1,30 @@
+#root {
+  height:100%;
+  width: 100%;
+  text-align: center;
+  background-color: white;
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+}
+
+.contenedor{
+  display: "flex";
+  justify-content: "center";
+  align-items: "center"; 
+}
+
+.producto{
+  color:black;
+  border: 2px solid black;
+  width: 20%;
+  display: "flex";
+  justify-content: "center";
+  align-items: "center";
+}
+
+body{
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}

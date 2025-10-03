@@ -1,0 +1,13 @@
+.imagenProducto{
+    height: 50%;
+    width: 50%;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 20px;
+}
+.contenedorTarjeta{
+    background-color: #36B63B;
+}
