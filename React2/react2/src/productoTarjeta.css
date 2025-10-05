@@ -4,10 +4,25 @@
 }
 h2{
     font-size: 50px;
+    word-wrap: break-word;
+    overflow: hidden;
 }
 h3{
     font-size: 20px;
 }
+
 .contenedorTarjeta{
-    background-color: #36B63B;
+    
+}
+
+.disponible{
+    color: green;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+.agotado{
+    color: red;
+    word-wrap: break-word;
+    overflow: hidden;
 }

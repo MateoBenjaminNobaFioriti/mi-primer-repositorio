@@ -8,12 +8,12 @@ function App() {
   
   const productos:Producto[] = [{
     nombre:"Piano",
-    precio: 1200,
+    precio: 22000,
     imagen: "./src/assets/piano.png",
     stock: true
   },
   {nombre:"Trompeta",
-    precio: 1200,
+    precio: 4300,
     imagen: "./src/assets/trompeta.png",
     stock: false
   },

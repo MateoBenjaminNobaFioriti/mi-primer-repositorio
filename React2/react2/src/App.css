@@ -1,26 +1,31 @@
 #root {
   height:100%;
   width: 100%;
-  text-align: center;
   background-color: white;
-  display: "flex";
-  justify-content: "center";
-  align-items: "center";
+  
+}
+
+body{
+  height:100%;
+  width: 100%;
 }
 
 .contenedor{
-  display: "flex";
-  justify-content: "center";
-  align-items: "center"; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
 }
 
 .producto{
   color:black;
   border: 2px solid black;
+  height: 50%;
   width: 20%;
-  display: "flex";
-  justify-content: "center";
-  align-items: "center";
+  background-color: #36B63B;
 }
 
 body{
