@@ -1,0 +1,28 @@
+#root {
+  height:100%;
+  width: 100%;
+  background-color: white;
+  
+}
+
+.contenedor{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.evento{
+  color:black;
+  height: 50%;
+  width: 60%;
+}
+
+body{
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}

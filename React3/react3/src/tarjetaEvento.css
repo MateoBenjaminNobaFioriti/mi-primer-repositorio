@@ -1,0 +1,37 @@
+h1{
+    font-size: 100px;
+}
+h2{
+    font-size: 50px;
+}
+h3{
+    font-size: 20px;
+}
+
+.musica{
+    background-color: purple;
+    word-wrap: break-word;
+    overflow: hidden;
+    border: 2px solid black;
+}
+
+.deportes{
+    background-color: green;
+    word-wrap: break-word;
+    overflow: hidden;
+    border: 2px solid black;
+}
+
+.tecnologia{
+    background-color: blue;
+    word-wrap: break-word;
+    overflow: hidden;
+    border: 2px solid black;
+}
+
+.comida{
+    background-color: orange;
+    word-wrap: break-word;
+    overflow: hidden;
+    border: 2px solid black;
+}
