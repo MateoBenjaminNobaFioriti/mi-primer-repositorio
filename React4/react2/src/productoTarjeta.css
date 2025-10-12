@@ -1,0 +1,40 @@
+.imagenProducto{
+    height: 50%;
+    width: 50%;
+}
+h2{
+    font-size: 50px;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+h3{
+    font-size: 20px;
+}s
+
+.disponible{
+    color: green;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+.agotado{
+    color: red;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+.botones{
+    display: flex;
+}
+
+.botones h3{
+    font-size: 20%;
+}
+
+.botones button{
+    height: 30%;
+    width: 25%;
+    font-size: 20%;
+    color: black;
+    margin: 5px;
+}

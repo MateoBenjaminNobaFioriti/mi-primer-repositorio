@@ -1,0 +1,35 @@
+#root {
+  height:100%;
+  width: 100%;
+  background-color: white;
+  
+}
+
+body{
+  height:100%;
+  width: 100%;
+}
+
+.contenedor{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.producto{
+  color:black;
+  border: 2px solid black;
+  height: 50%;
+  width: 20%;
+  background-color: #36B63B;
+}
+
+body{
+  background-color: white;
+  height: 100%;
+  width: 100%;
+}
