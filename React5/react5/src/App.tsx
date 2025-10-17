@@ -4,8 +4,8 @@ import { FormularioInscripcion } from './FormularioInscripcion';
 function App() {
 
   return (
-    <div>
-        <p>{FormularioInscripcion()}</p>
+    <div className='contenedor'>
+      <p>{FormularioInscripcion()}</p>
     </div>
   )
 }

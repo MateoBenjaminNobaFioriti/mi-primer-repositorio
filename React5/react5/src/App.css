@@ -1,15 +1,35 @@
 body{
-  background-color: white;
+  background-color: #69e2ff;
 }
 
 *{
   color: black;
 }
 
+#root {
+  height:100%;
+  width: 100%;
+}
+
 button{
-  background-color: white;
+  background-color: #00ccff;
 }
 
 input{
-  background-color: white;
+  background-color: #9eecff;
+  height: 30px;
+}
+
+label{
+  font-size: 20px;
+}
+
+.contenedor{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  width: 100%;
 }

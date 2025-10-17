@@ -10,6 +10,7 @@ export function BotonSubmit(props: BotonSubmitProps){
 
     return(
         <div>
+            <br></br>
             <button type="submit" onClick={props.onClick}>{props.texto}</button>
         </div>
     )

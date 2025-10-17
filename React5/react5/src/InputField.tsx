@@ -12,8 +12,9 @@ interface InputFieldProps {
 export function InputField(props: InputFieldProps){
     return(
         <div>
-            <div className="input-field">
-                <label>{props.label}</label>
+            <div className="inputField">
+                <label className='labelizquierda'><b>{props.label}</b></label>
+                <br></br>
                 <input 
                     type={props.type} 
                     value={props.value}
