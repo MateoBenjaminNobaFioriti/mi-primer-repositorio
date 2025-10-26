@@ -26,6 +26,7 @@ export function FormularioInscripcion(){
         }else{
             setMensajeExito(true);
         }
+        console.log({nombre});
     }
     
     function manejarReseteo(){
